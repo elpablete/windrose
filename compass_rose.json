@@ -1,0 +1,194 @@
+{
+    "N": {
+       "compass point": "North",
+       "traditional wind point": "Tramontana",
+       "heading": 0,
+       "level": 0
+    },
+    "NbE": {
+       "compass point": "North by east",
+       "traditional wind point": "Quarto di Tramontana verso Greco",
+       "heading": 11.25,
+       "level": 3
+    },
+    "NNE": {
+       "compass point": "North-northeast",
+       "traditional wind point": "Greco-Tramontana",
+       "heading": 22.5,
+       "level": 2
+    },
+    "NEbN": {
+       "compass point": "Northeast by north",
+       "traditional wind point": "Quarto di Greco verso Tramontana",
+       "heading": 33.75,
+       "level": 3
+    },
+    "NE": {
+       "compass point": "Northeast",
+       "traditional wind point": "Greco",
+       "heading": 45,
+       "level": 1
+    },
+    "NEbE": {
+       "compass point": "Northeast by east",
+       "traditional wind point": "Quarto di Greco verso Levante",
+       "heading": 56.25,
+       "level": 3
+    },
+    "ENE": {
+       "compass point": "East-northeast",
+       "traditional wind point": "Greco-Levante",
+       "heading": 67.5,
+       "level": 2
+    },
+    "EbN": {
+       "compass point": "East by north",
+       "traditional wind point": "Quarto di Levante verso Greco",
+       "heading": 78.75,
+       "level": 3
+    },
+    "E": {
+       "compass point": "East",
+       "traditional wind point": "Levante",
+       "heading": 90,
+       "level": 0
+    },
+    "EbS": {
+       "compass point": "East by south",
+       "traditional wind point": "Quarto di Levante verso Scirocco",
+       "heading": 101.25,
+       "level": 3
+    },
+    "ESE": {
+       "compass point": "East-southeast",
+       "traditional wind point": "Levante-Scirocco",
+       "heading": 112.5,
+       "level": 2
+    },
+    "SEbE": {
+       "compass point": "Southeast by east",
+       "traditional wind point": "Quarto di Scirocco verso Levante",
+       "heading": 123.75,
+       "level": 3
+    },
+    "SE": {
+       "compass point": "Southeast",
+       "traditional wind point": "Scirocco",
+       "heading": 135,
+       "level": 1
+    },
+    "SEbS": {
+       "compass point": "Southeast by south",
+       "traditional wind point": "Quarto di Scirocco verso Ostro",
+       "heading": 146.25,
+       "level": 3
+    },
+    "SSE": {
+       "compass point": "South-southeast",
+       "traditional wind point": "Ostro-Scirocco",
+       "heading": 157.5,
+       "level": 2
+    },
+    "SbE": {
+       "compass point": "South by east",
+       "traditional wind point": "Quarto di Ostro verso Scirocco",
+       "heading": 168.75,
+       "level": 3
+    },
+    "S": {
+       "compass point": "South",
+       "traditional wind point": "Ostro",
+       "heading": 180,
+       "level": 0
+    },
+    "SbW": {
+       "compass point": "South by west",
+       "traditional wind point": "Quarto di Ostro verso Libeccio",
+       "heading": 191.25,
+       "level": 3
+    },
+    "SSW": {
+       "compass point": "South-southwest",
+       "traditional wind point": "Ostro-Libeccio",
+       "heading": 202.5,
+       "level": 2
+    },
+    "SWbS": {
+       "compass point": "Southwest by south",
+       "traditional wind point": "Quarto di Libeccio verso Ostro",
+       "heading": 213.75,
+       "level": 3
+    },
+    "SW": {
+       "compass point": "Southwest",
+       "traditional wind point": "Libeccio",
+       "heading": 225,
+       "level": 1
+    },
+    "SWbW": {
+       "compass point": "Southwest by west",
+       "traditional wind point": "Quarto di Libeccio verso Ponente",
+       "heading": 236.25,
+       "level": 3
+    },
+    "WSW": {
+       "compass point": "West-southwest",
+       "traditional wind point": "Ponente-Libeccio",
+       "heading": 247.5,
+       "level": 2
+    },
+    "WbS": {
+       "compass point": "West by south",
+       "traditional wind point": "Quarto di Ponente verso Libeccio",
+       "heading": 258.75,
+       "level": 3
+    },
+    "W": {
+       "compass point": "West",
+       "traditional wind point": "Ponente",
+       "heading": 270,
+       "level": 0
+    },
+    "WbN": {
+       "compass point": "West by north",
+       "traditional wind point": "Quarto di Ponente verso Maestro",
+       "heading": 281.25,
+       "level": 3
+    },
+    "WNW": {
+       "compass point": "West-northwest",
+       "traditional wind point": "Maestro-Ponente",
+       "heading": 292.5,
+       "level": 2
+    },
+    "NWbW": {
+       "compass point": "Northwest by west",
+       "traditional wind point": "Quarto di Maestro verso Ponente",
+       "heading": 303.75,
+       "level": 3
+    },
+    "NW": {
+       "compass point": "Northwest",
+       "traditional wind point": "Maestro",
+       "heading": 315,
+       "level": 1
+    },
+    "NWbN": {
+       "compass point": "Northwest by north",
+       "traditional wind point": "Quarto di Maestro verso Tramontana",
+       "heading": 326.25,
+       "level": 3
+    },
+    "NNW": {
+       "compass point": "North-northwest",
+       "traditional wind point": "Maestro-Tramontana",
+       "heading": 337.5,
+       "level": 2
+    },
+    "NbW": {
+       "compass point": "North by west",
+       "traditional wind point": "Quarto di Tramontana verso Maestro",
+       "heading": 348.75,
+       "level": 3
+    }
+ }
